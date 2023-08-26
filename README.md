@@ -1,6 +1,6 @@
 # React useReducer
 
-```
+```jsx
 /**
  * -----------
  * USEREDUCER
